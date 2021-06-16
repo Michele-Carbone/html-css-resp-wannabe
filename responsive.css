@@ -37,4 +37,12 @@
     #why.container {
         background-color: rgb(235, 192, 84);
     }
+
+    img{
+        margin: 15px 0;
+    }
+
+    hr{
+        margin: 15px 0;
+    }
 }
